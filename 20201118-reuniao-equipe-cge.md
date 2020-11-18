@@ -2,7 +2,7 @@
 
 ## Tópicos:
 
-- [ ] Apresentação repositório fhemig/dados-abertos;
+1. Apresentação repositório fhemig/dados-abertos;
 
 2. Dificuldades encontradas;
 
@@ -12,20 +12,22 @@
 
 ## Tarefas:
 
-1. Incluir nos issues maneira de sincronizar repositórios no goodtables.io
+- [x] Incluir nos issues maneira de sincronizar repositórios no goodtables.io
 
-2. Exportar arquivo .csv com utilizando ";" como separador;
+- [ ] Exportar arquivo .csv com utilizando ";" como separador;
 
-3. Exportar arquivo .csv UTF-8 byte order markder (DBeaver) "Insert BOM" (https://en.wikipedia.org/wiki/Byte_order_mark);
+- [ ] Exportar arquivo .csv UTF-8 byte order markder (DBeaver) "Insert BOM" (https://en.wikipedia.org/wiki/Byte_order_mark);
 
-4. Exportar arquivo .csv com campo data formatado corretamente (https://specs.frictionlessdata.io/table-schema/#types-and-formats);
+- [ ] Exportar arquivo .csv com campo data formatado corretamente (https://specs.frictionlessdata.io/table-schema/#types-and-formats);
 
-5. Mudar estrutura de organização das pastas para que cada métrica seja um repositório dentro da organização fhemig. Substituir dados-abertos por paciente_dia, por exemplo;
+- [ ] Mudar estrutura de organização das pastas para que cada métrica seja um repositório dentro da organização fhemig. Substituir dados-abertos por paciente_dia, por exemplo;
 
-6. Modificar estrutura dapackage.json para referenciar todos os arquivos que serão validados, não apenas um (https://github.com/dados-mg/issues/issues/12);
+- [ ] Modificar estrutura dapackage.json para referenciar todos os arquivos que serão validados, não apenas um (https://github.com/dados-mg/issues/issues/12);
 
-7. Criar repositório para armazenar glossário fhemig. Este glossário deverá ser referenciado (via link) em cada repositório que contenha dados disponibilizados;
+- [ ] Criar repositório para armazenar glossário fhemig. Este glossário deverá ser referenciado (via link) em cada repositório que contenha dados disponibilizados;
 
-8. Incluir README.md dentro do repositório paciente_dia explicando o que é a métrica (Referenciando local correto dentro do repositório do glossário);
+- [ ] Incluir README.md dentro do repositório paciente_dia explicando o que é a métrica (Referenciando local correto dentro do repositório do glossário);
+
+- [ ] Melhorar arquivo datapackage.json, com detalhamento maior dos campos e suas restrições;
 
 
