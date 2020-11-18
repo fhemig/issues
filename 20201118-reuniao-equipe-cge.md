@@ -2,7 +2,7 @@
 
 ## Tópicos:
 
-1. Apresentação repositório fhemig/dados-abertos; [ ]
+- [ ] Apresentação repositório fhemig/dados-abertos;
 
 2. Dificuldades encontradas;
 
