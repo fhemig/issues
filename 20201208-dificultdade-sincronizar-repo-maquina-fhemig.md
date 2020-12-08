@@ -1,0 +1,1 @@
+Durante a sincronização dos repositórios com a máquina da fhemig não conseguir realizar push e pull quando o protocolo utilizado para clone/add repo foi o ssl, após utilizar http tudo funcionou normalmente
