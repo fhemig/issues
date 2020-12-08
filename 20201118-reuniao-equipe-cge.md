@@ -21,7 +21,8 @@
 - [x] Exportar arquivo .csv com campo data formatado corretamente (https://specs.frictionlessdata.io/table-schema/#types-and-formats);
 
 - [x] Modificar estrutura dapackage.json para referenciar todos os arquivos que serão validados, não apenas um (https://github.com/dados-mg/issues/issues/12) - MODIFICAÇÃO NO ARQUIVO FEITA A MÃO. TERIA UMA MANEIRA MAIS FÁCIL?;
-- [ ] Mudar estrutura de organização das pastas para que cada métrica seja um repositório dentro da organização fhemig. Substituir dados-abertos por paciente_dia, por exemplo;
+
+- [x] Mudar estrutura de organização das pastas para que cada métrica seja um repositório dentro da organização fhemig. Substituir dados-abertos por paciente_dia, por exemplo.LEMBRAR DE CLONAR GITHUB REPO COM HTTPS;
 
 - [ ] Criar repositório para armazenar glossário fhemig. Este glossário deverá ser referenciado (via link) em cada repositório que contenha dados disponibilizados;
 
